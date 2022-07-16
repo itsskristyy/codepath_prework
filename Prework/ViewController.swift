@@ -19,11 +19,11 @@ class ViewController: UIViewController {
     
     @IBAction func buttonClicked(_ sender: Any) {
         print("hello")
-        TextLabel.textColor = UIColor.green
+        TextLabel.textColor = UIColor.white
     }
     
     @IBAction func buttonBackhgroundColor(_ sender: Any) {
-        Background.backgroundColor = UIColor.gray
+        Background.backgroundColor = UIColor.systemPink
     }
     
     @IBAction func buttonChangeText(_ sender: Any) {
@@ -33,7 +33,7 @@ class ViewController: UIViewController {
     @IBAction func buttonRESET(_ sender: Any) {
         TextLabel.textColor = UIColor.black
         Background.backgroundColor = UIColor.systemBrown
-        TextLabel.text = "Hello"
+        TextLabel.text = "Hello from Kristy"
     }
     
     

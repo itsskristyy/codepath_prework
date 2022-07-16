@@ -4,7 +4,7 @@
 This app allows you to change the color of the text, background and reset to the original status of the app. 
 
 ### App Walk-though
-<img src="https://i.imgur.com/1Q5PhrR.gif" width=200><br>
+<img src= "https://i.imgur.com/PhHNI72.gif" width=200><br>
 
 
 
