@@ -1,4 +1,4 @@
-## CodePath PreWork "Hello World" App
+## CodePath PreWork "Hello" App
 
 ### App Description
 This app allows you to change the color of the text, background and reset to the original status of the app. 
